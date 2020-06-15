@@ -1,0 +1,23 @@
+
+header {
+    width: 90%;
+    margin: auto;
+}
+main{
+    width: 90%;
+    margin: 1em auto;
+    overflow:hidden;
+}
+
+section {
+    display:flex; 
+    flex-flow: row wrap;
+    justify-items: space-around;
+}
+
+div {
+    margin: 2%;
+}
+
+
+
